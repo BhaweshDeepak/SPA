@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SPA.CoreModel\SPA.CoreModel.csproj" />
+    <ProjectReference Include="..\SPA.logging\SPA.logging.csproj" />
+  </ItemGroup>
+
+</Project>
